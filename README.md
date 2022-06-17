@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+React testing app with Jest
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
